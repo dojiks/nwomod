@@ -15,3 +15,11 @@ bookmark =
 	cameraX = 4767
 	cameraY = 1263
 }
+bookmark =
+{
+	name = "CURRENT_YEAR_NAME"
+	desc = "With the rise of the right-wing in Europe and the Elections in America at home it seems like the world has dark times ahead"
+	date = 2016.1.7
+	cameraX = 2950
+	cameraY = 1550
+}
